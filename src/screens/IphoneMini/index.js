@@ -1,0 +1,1 @@
+export { IphoneMini } from "./IphoneMini";
